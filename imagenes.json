@@ -1,0 +1,40 @@
+{
+  "places":[{
+    "id":2,
+    "placeName":"Monumento Salvador del Mundo",
+    "images":[
+     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Monumento_al_Salvador_del_Mundo_1.jpg/1920px-Monumento_al_Salvador_del_Mundo_1.jpg"
+    ]
+  },
+  {
+    "id":3,
+    "placeName":"Estadio Cuscatlan",
+    "images":[
+    "http://elsalvadorfutbol.com/imagenes/estadios/copia(1)estadiocuscatlan.jpg"
+    ]
+  },
+  {
+    "id":4,
+    "placeName":"Parque zoologico Nacional",
+    "images":[
+    "http://www.sensunte.com/wp-content/uploads/2010/09/Manyula2-300x225.jpg"
+    ]
+  },
+  {
+    "id":5,
+    "placeName":"Ecoparque el Espino",
+    "images":[
+    
+    ]
+  },
+  {
+    "id":6,
+    "placeName":"Parque bicentenario",
+    "images":[
+    
+    ]
+  },
+  
+
+]
+}
